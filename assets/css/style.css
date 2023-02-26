@@ -1145,7 +1145,7 @@ html, body {
 
 .carousel-indicators .active .col-sm-fifth,
 .carousel-indicators a:hover .col-sm-fifth {
-  background-color: #000000;
+  background-color: #dbdbdb;
 }
 
 .carousel-indicators .active .service p,
@@ -1182,7 +1182,7 @@ html, body {
   height: 0;
   border-style: solid;
   border-width: 15px 15px 0 15px;
-  border-color: #000000 transparent transparent transparent;
+  border-color: #dbdbdb transparent transparent transparent;
   z-index: 99;
 }
 
