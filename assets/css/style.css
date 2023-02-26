@@ -1053,11 +1053,11 @@ html, body {
   background: #ffffff;
   width: 30px;
   height: 30px;
-  transform: rotate(45deg);
-  -webkit-transform: rotate(45deg);
-  -moz-transform: rotate(45deg);
-  -o-transform: rotate(45deg);
-  -ms-transform: rotate(45deg);
+  transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
   opacity: 1;
 }
 
@@ -1067,11 +1067,11 @@ html, body {
   left: 50%;
   color: #000;
   font-size: 18px;
-  transform: translate(-50%, -50%) rotate(-45deg);
-  -webkit-transform: translate(-50%, -50%) rotate(-45deg);
-  -moz-transform: translate(-50%, -50%) rotate(-45deg);
-  -o-transform: translate(-50%, -50%) rotate(-45deg);
-  -ms-transform: translate(-50%, -50%) rotate(-45deg);
+  transform: translate(-50%, -50%) rotate(-90deg);
+  -webkit-transform: translate(-50%, -50%) rotate(-90deg);
+  -moz-transform: translate(-50%, -50%) rotate(-90deg);
+  -o-transform: translate(-50%, -50%) rotate(-90deg);
+  -ms-transform: translate(-50%, -50%) rotate(-90deg);
   text-shadow: none;
 }
 
